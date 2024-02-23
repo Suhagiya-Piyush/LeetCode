@@ -1,3 +1,5 @@
+// Integer to Roman Converter
+
 var intToRoman = function(num) {
     const romanNumber = [
         { value : 1000, word : 'M'},
